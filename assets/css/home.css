@@ -1,0 +1,28 @@
+#box {
+    position: absolute;
+    height: 50vh;
+    width: 600px;
+    overflow: scroll;
+}
+
+#btn {
+    position: relative;
+    top: 55vh;
+    background-color: rgba(11, 189, 11, 0.856);
+    height: 2rem;
+    width: 5rem;
+    outline: none;
+    border: none;
+}
+
+#btn:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: lightgreen;
+}
+
+#message_container {
+    position: absolute;
+    margin-top: 2rem;
+    right: 10%;
+}
