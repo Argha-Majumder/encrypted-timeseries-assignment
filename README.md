@@ -37,6 +37,7 @@ https://localhost:8000
 ## Folder Structure
 
 Encrypted-timeseries
+    
     |
     |----assets
     |       |-----css
